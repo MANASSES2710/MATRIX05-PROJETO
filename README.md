@@ -71,7 +71,9 @@ Sprint | Previsão | Status| Histórico|
 
   
 # Backlog do Produto
-  ![Captura de Tela (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/11a75891-367e-4bef-a8a7-39ef2c3ca47b)
+![image](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/c5f1d7e3-db23-4cfd-bd09-3031f783fa5e)
+
+  
 
 <div align="center">
     
