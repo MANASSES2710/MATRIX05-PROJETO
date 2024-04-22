@@ -1,12 +1,5 @@
 #     MATRIX
-<p align="center"> 
-API 1° Semestre - Logística Noturno
-</p> 
-  
-<p align="center">   
- <img src="https://img.shields.io/badge/Status%3A-PROGRESS-orange"/>
- <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/Instituição%3A-FATEC-red"/></a>
-</p>
+
 
 
 # Índice
