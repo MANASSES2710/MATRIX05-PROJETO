@@ -86,7 +86,6 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 1. Concepção
 - [x] Estruturação do Jira Software;
-- [x] Pergunta do P.O;
 - [x] Mapeamento e filtração dos dados de exportação  ;
 - [x] Backlog do produto;
 - [x] Estruturação do GitHub;
