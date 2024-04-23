@@ -64,14 +64,14 @@ Sprint | Previsão | Status| Histórico|
 ## Burndown
 
 
-## Cronograma
-![WhatsApp Image 2024-04-10 at 22 04 25](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163483638/18eeab2b-a706-4019-a0a4-9b5ec8f40fef)
-
 </div>
 
   
 # Backlog do Produto
 ![image](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/c5f1d7e3-db23-4cfd-bd09-3031f783fa5e)
+
+![image](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/bb67b433-0770-4f98-9b4b-14cb1fd0e3e2)
+
 
   
 
@@ -92,11 +92,16 @@ Sprint | Previsão | Status| Histórico|
 - [x] Documentação da Sprint 1;
 
 ## Sprint 2. Desenvolvimento do Projeto
+- [ ] Início no Dashboard;
+- [ ] Movimentação de cargas;
+- [ ] Análise de cargas RM Vale;
 
 ## Sprint 3. Implementação 
-
+- [ ] Mapeamento aéreo;
+- [ ] Valor FOB;
 ## Sprint 4. Operacionalização
-
+- [ ] Conclusão do Dashboard;
+- [ ] Entrega do produto;
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
