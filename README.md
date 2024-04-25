@@ -1,5 +1,6 @@
 #     MATRIX
-![matrix (1)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/dc4f8131-aa22-452e-86f9-3baef5617722)
+
+![matrix (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/9224ea48-e168-4409-a2a6-a7c53bfea0ae)
 
 # Índice
 
