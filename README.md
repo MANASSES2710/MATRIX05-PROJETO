@@ -1,6 +1,7 @@
 #     MATRIX
 
-   | LogoTipo
+
+   > LogoTipo
 
 
 ![matrix (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/9224ea48-e168-4409-a2a6-a7c53bfea0ae)
