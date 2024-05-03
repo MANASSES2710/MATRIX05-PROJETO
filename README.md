@@ -6,7 +6,7 @@
 
 ![matrix (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/9224ea48-e168-4409-a2a6-a7c53bfea0ae)
 
-# Índice
+# 🔎 Índice
 
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
@@ -17,11 +17,11 @@
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
-# Projeto (API) 
+# 📋 Projeto (API) 
 Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentado nos pilares de aprendizagem com problemas reais (RPBL), validação externa e inteligência ágil. Usando estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Mínimo Produto Viável (MVP). Seguido de sua operação de concepção, projeto, implementação e operação de sistemas e produtos do mundo real (Inicitiva CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprints.
 
 
-# Equipe
+# 👥 Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |  Isabela Carvalho Cardoso    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-cardoso-b23a57276/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/isabelacardd)             |
@@ -32,13 +32,14 @@ Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem po
 |  Developer Team  | Eloisa Maria Lucia Wanderley da Rocha    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eloisa-rocha-aa6579302?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whiteg)](https://github.com/Eloisamlwr)  
 
 
-# Objetivo do Projeto
+# 🎯 Objetivo do Projeto
 O projeto de mapeamento de cargas do aeroporto de São José dos Campos surge em um contexto de crescente importância da logística e do transporte de mercadorias para o desenvolvimento local e regional. O mapeamento do fluxo de cargas é crucial para garantir operações logísticas fluídas, minimizar tempos de espera e reduzir custos para as empresas que utilizam o aeroporto para transporte de seus produtos.
 
 Portanto, o objetivo do projeto, será entregar o dashboard, o qual, irá oferecer uma visualização clara da exportação de cargas no aeroporto de São José dos Campos, contendo uma representação gráfica das origens e destinos dos municípios, permitindo uma análise eficaz do movimento logístico no aeroporto.
-## Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio
+## 💻 Tecnologias Utilizadas
+
+ ###  Tecnologias 
  > Microsoft Power Bi
 
  > Jira Software
@@ -47,13 +48,11 @@ Portanto, o objetivo do projeto, será entregar o dashboard, o qual, irá oferec
 
 > Canva
 
-
-
  
  ### Tecnologias da Informação
  >  Google Academico
 
-# Sprints
+# 📌 Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -64,13 +63,13 @@ Sprint | Previsão | Status| Histórico|
 |04| 27/05/2024 a 17/06/2024| a fazer |[Ver Relatório]()  | 
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
 
-## Burndown
+## 📋 Burndown
 
 
 </div>
 
   
-# Backlog do Produto
+# 📋 Backlog do Produto
 
 ![325426004-14e4adfd-cc46-41eb-9842-4e6f5069e12d](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/6967b769-661d-4acc-996e-249ad7b740e6)
 
@@ -83,8 +82,6 @@ Sprint | Previsão | Status| Histórico|
     
 
 </div>
-
-# Funcionalidades e Registros
 
 
 
@@ -106,7 +103,8 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 4. Operacionalização
 - [ ] Conclusão do Dashboard;
 - [ ] Entrega do produto;
-# Competências desenvolvidas
+      
+# 🎯 Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
 <details>
