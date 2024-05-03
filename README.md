@@ -64,7 +64,7 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
 
 ## 📋 Burndown
-
+![Captura de Tela (12)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/7a31b7b4-49cc-4a6f-8f80-f08abaa8c888)
 
 </div>
 
