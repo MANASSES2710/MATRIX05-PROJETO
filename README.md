@@ -49,8 +49,6 @@ Portanto, o objetivo do projeto, será entregar o dashboard, o qual, irá oferec
 > Canva
 
  
- ### Tecnologias da Informação
- >  Google Academico
 
 # 📌 Sprints
 
@@ -72,12 +70,10 @@ Sprint | Previsão | Status| Histórico|
   
 # 📋 Backlog do Produto
 
-![325426004-14e4adfd-cc46-41eb-9842-4e6f5069e12d](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/6967b769-661d-4acc-996e-249ad7b740e6)
+>Backlog do Produto
 
-![324642630-bb67b433-0770-4f98-9b4b-14cb1fd0e3e2](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/013132fc-ab25-484c-87b2-002ed8103f59)
+![Captura de Tela (170)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/03f7dc73-b874-419e-b7ee-09e82e96bd8a)
 
-
-  
 
 <div align="center">
     
@@ -100,10 +96,13 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 3. Implementação 
 - [ ] Mapeamento aéreo;
+- [ ] Separação importação e exportação;
 - [ ] Valor FOB;
+      
 ## Sprint 4. Operacionalização
 - [ ] Conclusão do Dashboard;
 - [ ] Entrega do produto;
+- [ ] Preparação para a feira de soluções;
       
 # 🎯 Competências desenvolvidas
 
