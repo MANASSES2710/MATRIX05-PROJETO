@@ -1,8 +1,7 @@
-#     MATRIX
-
+# <p align="center">▪️ MATRIX ▪️ </p> <p align="center">APRENDIZAGEM POR PROJETOS INTEGRADOS</p><p align="center">1º SEMESTRE LOG - 2024 </p>
 
    > LogoTipo
-
+ 
 
 ![matrix (3)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/9224ea48-e168-4409-a2a6-a7c53bfea0ae)
 
