@@ -90,9 +90,9 @@ Sprint | Previsão | Status| Histórico|
 - [x] Documentação da Sprint 1;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Início no Dashboard;
-- [ ] Movimentação de cargas;
-- [ ] Análise de cargas RM Vale;
+- [x] Início no Dashboard;
+- [x] Movimentação de cargas;
+- [x] Análise de cargas RM Vale;
 
 ## Sprint 3. Implementação 
 - [ ] Mapeamento aéreo;
