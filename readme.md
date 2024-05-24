@@ -56,13 +56,14 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 a 15/03/2024 | concluido| [Ver Relatório]() | 
 |01 | 25/03/2024 a 15/04/2024| concluído| [Ver Relatório](https://drive.google.com/file/d/1kPdtbDLHvU8VxvA2pGEHq9_f9ANoFOko/view?usp=drive_link) | 
-|02| 15/04/2024 a 06/05/2024| concluído |[Ver Relatório]() | 
+|02| 15/04/2024 a 06/05/2024| concluído |[Ver Relatório]() | https://docs.google.com/document/d/1NHwuicnPsCu0IpBR804dGPFbQneE5ETU2psOm9Hyg9M/edit |
 |03| 06/05/2024 a 27/05/2024| a fazer|[Ver Relatório]() | 
 |04| 27/05/2024 a 17/06/2024| a fazer |[Ver Relatório]()  | 
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
 
 ## 📋 Burndown
-![Captura de Tela (12)](https://github.com/MANASSES2710/MATRIX05-PROJETO/assets/163482917/7a31b7b4-49cc-4a6f-8f80-f08abaa8c888)
+
+
 
 </div>
 
@@ -95,9 +96,9 @@ Sprint | Previsão | Status| Histórico|
 - [x] Análise de cargas RM Vale;
 
 ## Sprint 3. Implementação 
-- [ ] Mapeamento aéreo;
-- [ ] Separação importação e exportação;
-- [ ] Valor FOB;
+- [x] Valor agregado por produto;
+- [x] Tabela SH4;
+- [x] Tratamento dados exportados;
       
 ## Sprint 4. Operacionalização
 - [ ] Conclusão do Dashboard;
