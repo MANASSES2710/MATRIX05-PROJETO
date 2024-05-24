@@ -56,7 +56,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 a 15/03/2024 | concluido| [Ver Relatório]() | 
 |01 | 25/03/2024 a 15/04/2024| concluído| [Ver Relatório](https://drive.google.com/file/d/1kPdtbDLHvU8VxvA2pGEHq9_f9ANoFOko/view?usp=drive_link) | 
-|02| 15/04/2024 a 06/05/2024| concluído |[Ver Relatório]() | https://docs.google.com/document/d/1NHwuicnPsCu0IpBR804dGPFbQneE5ETU2psOm9Hyg9M/edit |
+|02| 15/04/2024 a 06/05/2024| concluído |[Ver Relatório]() | (https://docs.google.com/document/d/1NHwuicnPsCu0IpBR804dGPFbQneE5ETU2psOm9Hyg9M/edit) |
 |03| 06/05/2024 a 27/05/2024| a fazer|[Ver Relatório]() | 
 |04| 27/05/2024 a 17/06/2024| a fazer |[Ver Relatório]()  | 
 |Feira de Soluções|27/06/2024 | a fazer |[Ver Relatório]() | 
